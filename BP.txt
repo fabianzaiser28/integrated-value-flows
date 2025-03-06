@@ -1,0 +1,25 @@
+BP:
+Bike Center S25 015 (Krems an der Donau): 1003387
+Fabian Zaiser (Person): 1003415
+
+sales inqu: 10000056
+
+Quotation: 20000055
+
+Standard order: 215
+
+
+Conditions:
+PR00
+HB00 Discount (Value)
+K004 - this case was 50 USD
+RA00 (click on header symbol) - this case its 5%
+
+
+Chane Quotation <number>: Overview
+Left upper corner -> Menu -> Edit -> Incompletion Log -> bottom left message <Document is complete>
+
+
+Tools:
+Manage Business Partner
+Manage
