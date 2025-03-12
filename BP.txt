@@ -8,6 +8,12 @@ Quotation: 20000055
 
 Standard order: 215
 
+create billing documents
+manage billing documents:
+nr: 90000077
+
+post incoming payments (last step)
+
 
 Conditions:
 PR00

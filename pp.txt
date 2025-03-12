@@ -1,0 +1,20 @@
+Example workflow:
+-creeate bom
+-create work center
+- create routing
+- create production version (v1, v2)
+
+Routing was saved with group 50000088 and material 98.
+
+
+post goods receipt: material document5000000358/2025
+
+stock/requirements list
+Order number 1000223 saved
+
+post goods receipt II:
+Material Document: 5000000369/2025
+
+1000240 
+
+mat. doc. 5000000381/2025

@@ -1,0 +1,21 @@
+change material (mm02)
+
+
+Businesspartner (Vendor)
+Mid-West Supply S25 014: 1003436
+
+Purchasing Info record: 5300000460
+
+purchase requisition: 10001293
+
+RFQ created under the number 6000000090
+
+RFQ new: 6000000105
+
+standard PO (for RFQ New): 4500000169
+
+material document: 5000000326/2025
+
+supplier invoice: 5105600213/2025
+
+journal entry 1500000041 (2025, US00) was saved successfully
